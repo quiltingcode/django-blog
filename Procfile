@@ -1,0 +1,1 @@
+web: gunicorn kelz-django-blog.wsgi
